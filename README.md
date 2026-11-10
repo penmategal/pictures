@@ -1,0 +1,2 @@
+# pictures
+Gambar Screenshoot Aplikasi
